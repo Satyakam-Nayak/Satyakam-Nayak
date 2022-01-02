@@ -35,4 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyakam-nayak&show_icons=true&locale=en" alt="satyakam-nayak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyakam-nayak&" alt="satyakam-nayak" /></p>
-<h4 align="center">Simplicity is Prerequisite for Reliablity</h4>
+<h1 align="center">Simplicity is Prerequisite for Reliablity</h1>
