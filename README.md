@@ -24,8 +24,8 @@
 <a href="https://twitter.com/satyakamnayak2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satyakamnayak2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/satyakam-nayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyakam-nayak" height="30" width="40" /></a>
 <a href="https://instagram.com/wrench.ie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wrench.ie" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@satyakamnayak201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@satyakamnayak201" height="30" width="40" /></a>
-<a href="https://discord.gg/#5120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5120" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/satyakamnayak201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="satyakamnayak201" height="30" width="40" /></a>
+<a href="https://discord.gg/#5120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#5120" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
