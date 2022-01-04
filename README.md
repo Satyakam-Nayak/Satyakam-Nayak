@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/12000/0*HXs1CngWl1Delfck)](https://github.com/Satyakam-Nayak)
+<img src="https://miro.medium.com/max/12000/0*HXs1CngWl1Delfck" width="1050" height="300" />
 <h1 align="center">Yahello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <h2 align="center">I'm Satyakam Nayak</h2>
 <h3 align="center">"CARELESS GUY TRYING TO BE CAREFUL WHILE CODING"</h3>
