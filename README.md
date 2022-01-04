@@ -33,9 +33,26 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyakam-nayak&show_icons=true&locale=en&layout=compact" alt="satyakam-nayak" /></p>
+  ## 📊 My Github Stats
+  
+  
+  <p align="center">
+    <a href="https://github.com/Satyakam-Nayak/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Satyakam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Satyakam-Nayak&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyakam-nayak&show_icons=true&locale=en" alt="satyakam-nayak" /></p>
+  <br/>
+    <a href="https://github.com/Satyakam-Nayak/github-readme-stats"><img alt="Satyakam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Satyakam-Nayak&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Satyakam-Nayak/github-readme-stats"><img alt="Satyakam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyakam-Nayak&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <!--<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <br/>-->
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyakam-nayak&" alt="satyakam-nayak" /></p>
+<a href="https://github.com/Satyakam-Nayak/github-readme-activity-graph"><img alt="Satyakam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Satyakam-Nayak&bg_color=0D1117&color=0070FF&line=8B00FF&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
 <h1 align="center">Simplicity is Prerequisite for Reliablity</h1>
