@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact **Can't get hold of me XD:)**
 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/Q7GDuwtfLIezQTQhkC/giphy.gif?cid=ecf05e47nyqovdjrctp0wm4ui04wnrhke8x2bffc8tftu4z2&rid=giphy.gif&ct=s" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/satyakamnayak2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satyakamnayak2" height="30" width="40" /></a>
