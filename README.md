@@ -1,4 +1,4 @@
-<img src=""https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif?cid=ecf05e47zy1uijq4hr1a1gjhrwizagfg18n6ygo6nvl71cyq&rid=giphy.gif&ct=g" width="1050" height="300"" />
+<img src=""https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif?cid=ecf05e47zy1uijq4hr1a1gjhrwizagfg18n6ygo6nvl71cyq&rid=giphy.gif&ct=g" width="1050" height="300" />
 <h1 align="center">Yahello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <h2 align="center">I'm Satyakam Nayak</h2>
 <h3 align="center">"CARELESS GUY TRYING TO BE CAREFUL WHILE CODING"</h3>
