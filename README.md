@@ -11,7 +11,7 @@
 
 - 🔭 I’m pursuing B.Tech from **Kalinga Institute of Industrial Technology**
 
-- 🌱 I’m currently learning **C, C++**
+- 🌱 I’m currently learning **ReactJS, React Native**
 
 - 👯 I’m passionate about **Coding and Cooking**
 
